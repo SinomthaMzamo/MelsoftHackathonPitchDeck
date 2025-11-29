@@ -296,6 +296,11 @@ export default function VukaPresentation() {
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               Our Solution
             </h2>
+            <h3 class="italic font-bold text-yellow-400">
+              “The top 1% hire expensive career coaches to stay ahead. With our
+              AI coach, every young person now has the same power — affordable,
+              accessible, and just one click away.”
+            </h3>
             <p className="text-xl text-slate-400 max-w-3xl mx-auto">
               AI-powered interview coaching that's accessible, personalized, and
               effective
