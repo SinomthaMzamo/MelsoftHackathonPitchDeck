@@ -577,7 +577,7 @@ export default function VukaPresentation() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <a
-              href="https://github.com/yourusername/vuka-coach"
+              href="https://github.com/SinomthaMzamo/hackathon-quest/tree/mvp"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 bg-slate-800 text-white font-bold rounded-xl hover:bg-slate-700 transition border border-slate-700 flex items-center justify-center"
